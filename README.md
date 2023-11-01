@@ -6,7 +6,7 @@
 ---
 
 ## How To Install
-<img src="https://img.shields.io/badge/jitpack-1.0.0-green">
+[![](https://jitpack.io/v/MohammedShaat/story-thumbnail.svg)](https://jitpack.io/#MohammedShaat/story-thumbnail)
 
 
 ### Step 1
